@@ -1,0 +1,7 @@
+{
+  "title": "how to learn html",
+  "content": "Every front-end developer and web developer knows how frustrating and painful it is to write the same code at multiple places. If they need to add a button on multiple pages they are forced to do a lot of code. Developers using other frameworks face the challenges to rework most codes even when crafting components that changed frequently. Developers wanted a framework or library which allow them to break down complex components and reuse the codes to complete their projects faster. Here React comes in and solved this problem. ",
+  "author": "arif ch",
+  "metahead": "learn react in one video. i am going to learn react in one video and bcome a computer software developer. Let’s consider how this works in action: let’s say your friend sends you a link to a funny video. When you click on the link, your web browser (the client) sends a request to the video website (the server) asking for the video file. The website’s server receives the request and sends the file to your computer. ",
+  "slug": "how-to-learn-html"
+}
